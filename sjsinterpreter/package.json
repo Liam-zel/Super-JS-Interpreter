@@ -1,0 +1,12 @@
+{
+  "name": "sjsinterpreter",
+  "version": "1.0.1",
+  "description": "the interpreter for the sjs language!",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
